@@ -1,0 +1,48 @@
+.App {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.card-header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+  border-radius: 10px 10px 0 0 !important;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.form-control {
+  border-radius: 5px;
+}
+
+.alert {
+  border-radius: 5px;
+}
+
+.navbar {
+  border-radius: 0 0 10px 10px;
+}
+
+.spinner-border {
+  width: 3rem;
+  height: 3rem;
+}
+
+.badge {
+  font-size: 0.75em;
+}
